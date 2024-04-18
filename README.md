@@ -22,9 +22,6 @@ https://alura-challenge3.vercel.app
 - `CSS`
 - `JavaScript`
 
-## Autor
-| [<img src="https://avatars.githubusercontent.com/u/92187976?v=4" width=115><br><sub>Alan S. A. Leite</sub>](https://github.com/araujoleite) |
-| :---: |
 
 # Para rodar no VS Code
 - npx json-server --watch db.json
